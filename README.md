@@ -50,3 +50,4 @@
 Коммит №48 - daily-progress
 Коммит №49 - daily-progress
 Коммит №50 - daily-progress
+## June 30 - Day 1
